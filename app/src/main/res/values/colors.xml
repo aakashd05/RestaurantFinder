@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="primary">#212850</color>
+    <color name="border_grey">#d4d4d4</color>
+    <color name="darker_grey">#252222</color>
+    <color name="gradient_grey">#837373</color>
+    <color name="light_grey">#564d4d</color>
+    <color name="matt_blue_border">#674fbf</color>
+
+</resources>

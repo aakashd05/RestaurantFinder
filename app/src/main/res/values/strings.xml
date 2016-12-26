@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RestroFinder</string>
+    <string name="restaurants_text">Restaurants</string>
+    <string name="view_all_text">VIEW ALL</string>
+    <string name="blank">-</string>
+</resources>
